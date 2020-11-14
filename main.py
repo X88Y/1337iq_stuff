@@ -3,7 +3,7 @@ import sys
 from PyQt5 import QtWidgets
 from PyQt5 import QtGui
 from PyQt5.QtWidgets import QDialog
-import design, dialog, dialog2
+import design
 import subprocess
 
 
